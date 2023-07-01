@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [DEVCONNECT](https://kind-pink-moth-wig.cyclic.app/)
+- 🔭 I’m currently creating Full stack web apps with React and Node
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rahul7yadu.vercel.app/](https://portfolio-rahul7yadu.vercel.app/)
 
@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **rahulyadu17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16rDoH4nk9Qbdo4Gev-D2GIlJiIB9FihT/view?usp=sharing](https://drive.google.com/file/d/16rDoH4nk9Qbdo4Gev-D2GIlJiIB9FihT/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/12g-umY_UWlNgc7uXErXsim5FUuniQEwRwJdW0BUqapk/edit?usp=sharing](https://docs.google.com/document/d/12g-umY_UWlNgc7uXErXsim5FUuniQEwRwJdW0BUqapk/edit?usp=sharing)
 
-- ⚡ Fun fact **I Think I am matured for my age**
+- ⚡ Fun fact **I Think I  am not matured for my age**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
