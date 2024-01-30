@@ -4,7 +4,7 @@
 - 🔭 I’m currently creating Full stack web apps with React and Node
 - I am working on Breddit a full stack reddit clone built with Nextjs
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rahul7yadu.vercel.app/](https://portfolio-rahul7yadu.vercel.app/)
+- 👨‍💻 All of my projects are available on [my portfolio website](https://rahul-yadu-dev.vercel.app/)
 
 - 💬 Ask me about **REACT, NODEJS, REDUX**
 
