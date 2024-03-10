@@ -6,13 +6,13 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio website](https://rahul-yadu-dev.vercel.app/)
 
-- 💬 Ask me about **REACT, NODEJS, REDUX**
+- 💬 Ask me about **REACT, NODEJS, REDUX, JAVASCRIPT**
 
 - 📫 How to reach me **rahulyadu17@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12g-umY_UWlNgc7uXErXsim5FUuniQEwRwJdW0BUqapk/edit?usp=sharing](https://docs.google.com/document/d/12g-umY_UWlNgc7uXErXsim5FUuniQEwRwJdW0BUqapk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://rahul-yadu-dev.vercel.app/Rahul_yadu_resume.pdf)
 
-- ⚡ Fun fact **I Think I  am not matured for my age**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
