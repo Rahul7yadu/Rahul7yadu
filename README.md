@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently creating Full stack web apps with React and Node
-- I am working on Breddit a full stack reddit clone built with Nextjs
+- 🔭 I’m currently creating Full stack web apps with React and Node and Frappe
 
 - 👨‍💻 All of my projects are available on [my portfolio website](https://rahul-yadu-dev.vercel.app/)
 
-- 💬 Ask me about **REACT, NODEJS, REDUX, JAVASCRIPT**
+- 💬 Ask me about **FRAPPE , REACT, NODEJS , TYPESCRIPT , JAVASCRIPT**
 
 - 📫 How to reach me **rahulyadu17@gmail.com**
 
